@@ -1,0 +1,33 @@
+---
+import Section from "../Section.astro";
+import { skills } from "@resume"
+---
+
+<Section title="Habilidades">
+  <ul>
+    {
+      skills.map(({ name }) => (
+        <li>
+          <span>{name}</span>
+        </li>
+      ))
+    }
+  </ul>
+</Section>
+
+<style>
+  ul {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  li {
+    border-radius:  6px;
+    background: #eee;
+    color: black;
+    font-size: .8rem;
+    font-weight: 500;
+    padding: .2rem .6rem;
+  }
+</style>

@@ -1,0 +1,257 @@
+{
+  "basics": {
+    "name": "Carlos Antonio Lázaro Mauricio",
+    "label": "+5 años de experiencia. Desarrollador Web. De Trujillo - Perú.",
+    "image": "/me.webp",
+    "email": "ffclmauricio@gmail.com",
+    "phone": "+51968704791",
+    "url": "",
+    "summary": "+5 años de experiencia como Desarrollador de Software. Comencé mi carrera en el mundo del BPM, pero la participación en diversos proyectos me permitió descubrir y apasionarme por el desarrollo web, área en la que me he especializado. Me enfoco en UX/UI, siguiendo estándares, convenciones y buenas prácticas. Aunque domino el desarrollo web, estoy siempre abierto y en continuo aprendizaje, buscando mejorar y actualizar mis habilidades. Soy un amante de la tecnología, la programación y las metodologías eficientes.",
+    "location": {
+      "address": "",
+      "postalCode": "13101",
+      "city": "Trujillo",
+      "countryCode": "PE",
+      "region": "Péru"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ffclmauricio",
+        "url": "https://www.linkedin.com/in/ffclmauricio/"
+      },
+      {
+        "network": "GitHub",
+        "username": "momiavive",
+        "url": "https://github.com/momiavive"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WEDOX Perú",
+      "position": "UX/UI Developer",
+      "url": "https://buplat.com/",
+      "startDate": "2022-08-01",
+      "endDate": "2024-06-01",
+      "summary": "Responsable del desarrollo de Interfaces y Experiencia de Usuario de la plataforma BUPLAT. Implantación de buenas prácticas, legibilidad y optimización de código en base a la documentación del framework en el que está basada la plataforma. Creación de componentes (custom controls) reutilizables y funcionales.",
+      "highlights": [
+        "Recepción y análisis de requerimientos, proponiendo alternativas cuando era necesario para asegurar la mejor solución posible."
+      ]
+    },
+    {
+      "name": "WES IT",
+      "position": "BPM Developer",
+      "url": "",
+      "startDate": "2020-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Desarrollador BPM para cliente internacional de bienes de consumo, implementé soluciones avanzadas utilizando Bizagi Studio, SQL Server, y diversas tecnologías web para suplir limitaciones de Bizagi. Fui parte del equipo responsable del desarrollo de expresiones para la automatización de procesos y de flujo de trabajo optimizado, la gestión de datos maestros de proveedores y la configuración de datos, así como la actualización masiva de datos de procesos. También desarrollamos un marco de procesos configurables que abarcó la gestión de configuración, variantes, rutas, autorizaciones y transporte de configuraciones. Esto resultó en mejoras significativas en la eficiencia operativa, la precisión de los datos y la flexibilidad de los procesos empresariales, logrando una rápida adaptación a cambios en las necesidades del negocio.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "iDo Consulting Company SAC",
+      "position": "Ssr Application Developer",
+      "startDate": "2019-06-01",
+      "endDate": "2024-06-01",
+      "summary": "Desarrollador de diversos proyectos tanto nacionales como internacionales haciendo uso de amplia stack de tecnologias y herramientas. Con foco en implementaciones tanto de frontend como backend ademas de trabajar estrechamente con el equipo de diseño para asegurar una experiencia de usuario intuitiva y eficiente.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universitat Oberta de Catalunya",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingeniero de Software",
+    "studyType": "Bachelor",
+    "startDate": "2003-01-01",
+    "endDate": "2009-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "React JS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next JS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Node JS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "OPENUI5 / SAPUI5",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": ".NET Framework",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "BizAgi Studio",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "JIRA",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "API REST / SOAP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Shopi",
+      "isActive": true,
+      "description": "Ecommerce con características básicas como carrito de compras, filtrado y paginación de productos, visualizacion de producto a detalle; asi como manejo de rutas y manejo de estados con Context API.",
+      "highlights": [
+        "JSX",
+        "React JS",
+        "Tailwind CSS",
+        "Context API",
+        "React Router",
+        "Vite"
+      ],
+      "url": "https://benijs-ecommerce.netlify.app/"
+    }
+  ]
+}
