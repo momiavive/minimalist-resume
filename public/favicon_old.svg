@@ -1,0 +1,36 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 100 125">
+  <g transform="translate(0,-952.36218)">
+    <path d="m 13.531814,959.8622 72.936371,0 0,85 -72.936371,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="none" stroke="#000000"
+      stroke-width="5" stroke-opacity="1" marker="none" visibility="visible" display="inline"
+      overflow="visible" />
+    <path
+      d="m 34.977213,968.24846 0,0 h -2.61e-4 c -3.050668,0.012 -5.511541,2.51905 -5.491673,5.59723 -0.01987,3.10872 2.441005,5.61497 5.491673,5.59931 h 0 2.61e-4 c 3.050407,0.0159 5.511543,-2.49059 5.491673,-5.59931 0.01987,-3.07818 -2.441266,-5.58521 -5.491673,-5.59723 z"
+      style="" fill="#000000" fill-opacity="1" />
+    <path
+      d="m 48.048367,991.43672 c 0.01359,-3.96346 -3.391577,-10.43475 -7.253212,-10.45016 H 29.15875 c -3.861897,0.0154 -7.266546,6.4867 -7.253474,10.45016 h 26.143091 z"
+      style="" fill="#000000" fill-opacity="1" />
+    <path d="m 21.905238,998.82286 55.693239,0 0,4.94184 -55.693239,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 54.988433,988.62952 22.610043,0 0,4.94187 -22.610043,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 21.905238,1019.2097 55.693239,0 0,4.9418 -55.693239,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 21.905238,1029.403 55.693239,0 0,4.9418 -55.693239,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 21.905238,1009.0162 55.693239,0 0,4.9419 -55.693239,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 54.988433,978.43612 22.610043,0 0,4.94185 -22.610043,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+    <path d="m 54.988433,968.24141 22.610043,0 0,4.94186 -22.610043,0 z"
+      style="color:#000000;enable-background:accumulate;" fill="#000000" fill-opacity="1"
+      stroke="none" marker="none" visibility="visible" display="inline" overflow="visible" />
+  </g>
+</svg>
