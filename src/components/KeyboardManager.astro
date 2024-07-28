@@ -128,9 +128,9 @@ const profilesInfo = profiles.map(({ network, url }) => {
     ...data
   ]);
 
-  const footerButton = document.getElementById("footer-button")
+  const footerButton = document.getElementById("responsive-footer")
   footerButton?.addEventListener("click", () => {
-    const event = new KeyboardEvent("keydown", {
+    var event = new KeyboardEvent("keydown", {
       key: "K",
       code: "KeyK",
       keyCode: 75,
@@ -140,8 +140,8 @@ const profilesInfo = profiles.map(({ network, url }) => {
       shiftKey: false,
       metaKey: false
     });
-
-    document.dispatchEvent(event)
+    console.log("executed")
+    document.dispatchEvent(event);
   })
 </script>
 <style>
