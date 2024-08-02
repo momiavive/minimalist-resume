@@ -244,6 +244,7 @@
       "isActive": true,
       "description": "Ecommerce con características básicas como carrito de compras, filtrado y paginación de productos, visualizacion de producto a detalle; asi como manejo de rutas y manejo de estados con Context API.",
       "highlights": [
+        "JavaScript",
         "JSX",
         "React JS",
         "Tailwind CSS",
