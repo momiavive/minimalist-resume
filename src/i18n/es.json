@@ -1,0 +1,21 @@
+{
+  "HERO_MAIL_TOOLTIP_1": "Enviar un correo electrónico a",
+  "HERO_MAIL_TOOLTIP_2": "al correo",
+  "HERO_PHONE_TOOLTIP_1": "Llamar por teléfono a",
+  "HERO_PHONE_TOOLTIP_2": "al número",
+  "HERO_NET_TOOLTIP_1": "Visitar el perfil de",
+  "HERO_NET_TOOLTIP_2": "en",
+  "ABOUT_TITLE": "Sobre mí",
+  "EXPERIENCE_TITLE": "Experiencia laboral",
+  "EDUCATION_TITLE": "Educación",
+  "PROJECTS_TITLE": "Proyectos",
+  "SKILLS_TITLE": "Habilidades",
+  "KEYBOARD_MANAGER_PLACEHOLDER": "Buscar comando",
+  "KEYBOARD_MANAGER_MESSAGE_1": "Pulsa",
+  "KEYBOARD_MANAGER_MESSAGE_2": "para abrir la paleta de comandos.",
+  "KEYBOARD_MANAGER_ACTIONS_SECTION": "Acciones",
+  "KEYBOARD_MANAGER_ACTIONS_PRINT": "Imprimir Curriculum",
+  "KEYBOARD_MANAGER_SOCIAL_SECTION": "Social",
+  "KEYBOARD_MANAGER_SOCIAL_VERB": "Visitar",
+  "KEYBOARD_MANAGER_LANGUAGES_SECTION": "Idiomas"
+}

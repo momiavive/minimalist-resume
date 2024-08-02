@@ -1,0 +1,21 @@
+{
+  "HERO_MAIL_TOOLTIP_1": "Send an email to",
+  "HERO_MAIL_TOOLTIP_2": "at",
+  "HERO_PHONE_TOOLTIP_1": "Call",
+  "HERO_PHONE_TOOLTIP_2": "at",
+  "HERO_NET_TOOLTIP_1": "Visit",
+  "HERO_NET_TOOLTIP_2": "'s profile on",
+  "ABOUT_TITLE": "About me",
+  "EXPERIENCE_TITLE": "Work experience",
+  "EDUCATION_TITLE": "Education",
+  "PROJECTS_TITLE": "Projects",
+  "SKILLS_TITLE": "Stack",
+  "KEYBOARD_MANAGER_PLACEHOLDER": "Search command",
+  "KEYBOARD_MANAGER_MESSAGE_1": "Press",
+  "KEYBOARD_MANAGER_MESSAGE_2": "to open the command palette.",
+  "KEYBOARD_MANAGER_ACTIONS_SECTION": "Actions",
+  "KEYBOARD_MANAGER_ACTIONS_PRINT": "Print Resume",
+  "KEYBOARD_MANAGER_SOCIAL_SECTION": "Social",
+  "KEYBOARD_MANAGER_SOCIAL_VERB": "Visit",
+  "KEYBOARD_MANAGER_LANGUAGES_SECTION": "Languages"
+}

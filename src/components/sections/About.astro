@@ -1,11 +1,14 @@
 ---
-import Section from "../Section.astro";
-import { basics } from '@resume'
+import { getTranslatedResume, getI18N } from "@/i18n";
+import Section from "@/components/Section.astro";
 
+const resume = getTranslatedResume({ locale: Astro.currentLocale });
+const i18n = getI18N({ locale: Astro.currentLocale });
+const { basics } = resume;
 const { summary } = basics;
 ---
 
-<Section title="Sobre mí">
+<Section title={i18n.ABOUT_TITLE}>
   <p>
     {summary}
   </p>

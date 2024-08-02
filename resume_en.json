@@ -1,0 +1,257 @@
+{
+  "basics": {
+    "name": "Carlos Antonio Lázaro Mauricio",
+    "label": "+5 years of experience. Fullstack Web Developer.",
+    "image": "/me.webp",
+    "email": "ffclmauricio@gmail.com",
+    "phone": "+51968704791",
+    "url": "https://ffcl-minimalist-resume.vercel.app/",
+    "summary": "+5 years of experience as a Software Developer. I started my career in the BPM world, but participating in various projects allowed me to discover and become passionate about web development, an area in which I have specialized. I focus on UX/UI, following standards, conventions, and best practices. Although I excel in web development, I am always open and continuously learning, seeking to improve and update my skills. I am a technology enthusiast, a lover of programming, and efficient methodologies.",
+    "location": {
+      "address": "",
+      "postalCode": "13101",
+      "city": "Trujillo",
+      "countryCode": "PE",
+      "region": "Peru"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ffclmauricio",
+        "url": "https://www.linkedin.com/in/ffclmauricio/"
+      },
+      {
+        "network": "GitHub",
+        "username": "momiavive",
+        "url": "https://github.com/momiavive"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WEDOX Peru",
+      "position": "UX/UI Developer",
+      "url": "https://buplat.com/",
+      "startDate": "2022-08-01",
+      "endDate": "2024-06-01",
+      "summary": "Responsible for developing the User Interfaces and User Experience of the BUPLAT platform. Implemented best practices, readability, and code optimization based on the framework documentation on which the platform is based. Created reusable and functional components (custom controls).",
+      "highlights": [
+        "Received and analyzed requirements, proposing alternatives when necessary to ensure the best possible solution."
+      ]
+    },
+    {
+      "name": "WES IT",
+      "position": "BPM Developer",
+      "url": "",
+      "startDate": "2020-03-01",
+      "endDate": "2023-03-01",
+      "summary": "BPM Developer for an international consumer goods client, implementing advanced solutions using Bizagi Studio, SQL Server, and various web technologies to overcome Bizagi limitations. I was part of the team responsible for developing expressions for process automation and optimized workflow, managing supplier master data and data configuration, as well as the massive process data update. We also developed a configurable processes framework that covered configuration management, variants, routes, authorizations, and configuration transport. This resulted in significant improvements in operational efficiency, data accuracy, and business process flexibility, achieving rapid adaptation to changing business needs.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "iDo Consulting Company SAC",
+      "position": "Ssr Application Developer",
+      "startDate": "2019-06-01",
+      "endDate": "2024-06-01",
+      "summary": "Developer of various national and international projects using a wide stack of technologies and tools. Focused on both frontend and backend implementations, as well as working closely with the design team to ensure an intuitive and efficient user experience.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "National University of Trujillo",
+    "url": "https://www.unitru.edu.pe/",
+    "area": "Bachelor in Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2015-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "React JS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next JS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "Node JS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "OPENUI5 / SAPUI5",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code", "Git"
+      ]
+    },
+    {
+      "name": ".NET Framework",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "BizAgi Studio",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "JIRA",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "API REST / SOAP",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Shopi",
+      "isActive": true,
+      "description": "Ecommerce with basic features such as shopping cart, product filtering and pagination, detailed product view, as well as route handling and state management with Context API.",
+      "highlights": [
+        "JSX",
+        "React JS",
+        "Tailwind CSS",
+        "Context API",
+        "React Router",
+        "Vite"
+      ],
+      "url": "https://benijs-ecommerce.netlify.app/"
+    }
+  ]
+}

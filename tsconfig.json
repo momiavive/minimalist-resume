@@ -6,6 +6,9 @@
       "@resume": [
         "./resume.json"
       ],
+      "@resume_en": [
+        "./resume_en.json"
+      ],
       "@/*": [
         "src/*"
       ]

@@ -1,5 +1,5 @@
 ---
-import { basics } from '@resume';
+
 import Section from '@/components/Section.astro';
 import Mail from '@/icons/Mail.astro';
 import Phone from '@/icons/Phone.astro';
@@ -8,7 +8,11 @@ import LinkedIn from '@/icons/LinkedIn.astro';
 import GitHub from '@/icons/GitHub.astro';
 import WorldMap from '@/icons/WorldMap.astro';
 import type { SocialIcon } from '@/types';
+import { getTranslatedResume, getI18N } from '@/i18n';
 
+const i18n = getI18N({ locale: Astro.currentLocale });
+const resume = getTranslatedResume({ locale: Astro.currentLocale });
+const { basics } = resume;
 const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
 
@@ -39,7 +43,7 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ");
           email && (
             <a 
               href={`mailto:${email}`}
-              title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+              title={`${i18n.HERO_MAIL_TOOLTIP_1} ${name} ${i18n.HERO_MAIL_TOOLTIP_2} ${email}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -51,7 +55,7 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ");
           phone && (
             <a 
               href={`tel:${phone}`}
-              title={`Llamar por teléfono a ${name} al número ${phone}`}
+              title={`${i18n.HERO_PHONE_TOOLTIP_1} ${name} ${i18n.HERO_PHONE_TOOLTIP_2} ${phone}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -65,7 +69,7 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ");
             return (
               <a 
                 href={url}
-                title={`Visitar el perfil de ${name} en ${network}`}
+                title={`${i18n.HERO_NET_TOOLTIP_1} ${name} ${i18n.HERO_NET_TOOLTIP_2} ${network}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >

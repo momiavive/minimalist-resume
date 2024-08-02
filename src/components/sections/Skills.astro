@@ -1,9 +1,12 @@
 ---
+import { getI18N, getTranslatedResume } from "@/i18n";
 import Section from "../Section.astro";
-import { skills } from "@resume"
+const i18n = getI18N({ locale: Astro.currentLocale });
+const resume = getTranslatedResume({ locale: Astro.currentLocale });
+const { skills } = resume;
 ---
 
-<Section title="Habilidades">
+<Section title={i18n.SKILLS_TITLE}>
   <ul>
     {
       skills.map(({ name }) => (
